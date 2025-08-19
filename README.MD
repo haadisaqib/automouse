@@ -15,12 +15,18 @@ makepkg -si
 ```
 
 Once yay is installed, run the following command to install automouse:
+```bash
 yay -S automouse
+```
 
 Usage
 To keep your status active with the default 30-second interval:
+```bash
 automouse
+```
 
 To set a custom interval (in seconds):
+```bash
 automouse 5
+```
 
