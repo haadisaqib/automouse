@@ -12,6 +12,7 @@ If you don't have `yay`, you can install it first:
 git clone [https://aur.archlinux.org/yay.git](https://aur.archlinux.org/yay.git)
 cd yay
 makepkg -si
+```
 
 Once yay is installed, run the following command to install automouse:
 yay -S automouse
